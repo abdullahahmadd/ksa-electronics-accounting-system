@@ -48,6 +48,20 @@ This project simulates the accounting operations of a Saudi Arabian electronics 
 
 ---
 
+# Project Phases
+
+| Phase | Description |
+|--------|-------------|
+| Phase 1 | Business Setup |
+| Phase 2 | Master Data |
+| Phase 3 | Source Documents |
+| Phase 4 | Daily Transactions |
+| Phase 5 | Accounting Cycle |
+| Phase 6 | Month-End Adjustments |
+| Phase 7 | Financial Reporting |
+
+---
+
 # Accounting Concepts Implemented
 
 ### Accounting Fundamentals
@@ -178,36 +192,10 @@ Financial Reporting
 
 ---
 
-# Project Phases
+# Tools Used
 
-| Phase | Description |
-|--------|-------------|
-| Phase 1 | Business Setup |
-| Phase 2 | Master Data |
-| Phase 3 | Source Documents |
-| Phase 4 | Daily Transactions |
-| Phase 5 | Accounting Cycle |
-| Phase 6 | Month-End Adjustments |
-| Phase 7 | Financial Reporting |
-
----
-
-# Tools & Technologies Used
-
-### Productivity
 - Microsoft Excel
 - Microsoft Word
-
-### Accounting
-- Double-Entry Bookkeeping
-- Financial Reporting
-- VAT Accounting
-- Bank Reconciliation
-
-### Documentation
-- Markdown
-- Git
-- GitHub
 
 ---
 
@@ -239,29 +227,6 @@ Financial Reporting
 - Prepared complete financial reports.
 - Applied practical KSA accounting and VAT concepts.
 - Developed a portfolio-ready accounting project.
-
----
-
-# Repository Structure
-
-```text
-ksa-electronics-accounting-system/
-│
-├── Phase 01 - Business Setup/
-├── Phase 02 - Master Data/
-├── Phase 03 - Source Documents/
-├── Phase 04 - Daily Transactions/
-├── Phase 05 - Accounting Cycle/
-├── Phase 06 - Month-End Adjustments/
-├── Phase 07 - Financial Reporting/
-│
-├── Assets/
-│   ├── Images/
-│   └── Screenshots/
-│
-├── README.md
-└── LICENSE
-```
 
 ---
 
